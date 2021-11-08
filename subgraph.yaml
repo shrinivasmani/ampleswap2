@@ -1,6 +1,6 @@
 specVersion: 0.0.2
-description: cheeseswapbsc is a decentralized financial protocol.
-repository: https://github.com/cheeseswapbsc/cheesesubv2
+description: ampleswapbsc is a decentralized financial protocol.
+repository: https://github.com/shrinivasmani/ampleswap2
 schema:
   file: ./schema.graphql
 dataSources:
@@ -8,7 +8,7 @@ dataSources:
     name: Factory
     network: bsc
     source:
-      address: '0xdd538E4Fd1b69B7863E1F741213276A6Cf1EfB3B'
+      address: '0x381fefadab5466bff0e8e96842e8e76a143e8f73'
       abi: Factory
       startBlock: 200000
     mapping:
